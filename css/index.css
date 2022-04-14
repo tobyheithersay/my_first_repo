@@ -72,3 +72,38 @@ ul{
       padding-left:75px;
       padding-top: 30px;
   }
+  button{
+      float:right;
+  }
+.myWork1{
+    display: flex;
+    flex-direction: column;
+    width:50%;
+    align-items: center;
+    justify-content: center;
+}
+
+#socials{
+    max-width:300px;
+}
+h1{
+    font-family: 'Manrope', sans-serif;
+    font-size: 30px;
+}
+h2{
+    font-family: 'Manrope', sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+}
+.listcontainer{
+    background-color: #faca83;
+    margin-top: -4px;
+    padding: 30px;
+}
+.inline-block{
+    display: inline-block;
+    position: relative;
+    left: 30%; 
+    margin-right: 50px;
+}
+
